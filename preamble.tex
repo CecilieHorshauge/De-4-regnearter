@@ -1,0 +1,28 @@
+\usepackage[utf8]{inputenc}
+\usepackage[danish]{babel} %Latex genereret indhold bliver på dansk. eks: table of contents -> Indholdsfortegnelse
+\usepackage{fancyhdr}%sidehoved + sidefod
+\usepackage{graphicx} %Billeder
+\usepackage{amsmath,amssymb,gensymb,amsfonts,mathrsfs,latexsym} %Matematik-ting
+\usepackage{ dsfont }
+\usepackage{macro} %Egne skabeloner
+\usepackage{wasysym}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{framed} % or, "mdframed"
+\usepackage[framed]{ntheorem}
+\usepackage[left=3 cm,right=3cm,top=3.5cm]{geometry}
+\usepackage{subfiles}%SKAL LOADES SIDST I PREAMBLE
+
+
+\theorembodyfont{\normalfont}
+	\theoremstyle{break}
+\newtheorem{prob}{Opgave}%Problem environment
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{2024}
+\lhead{De fire regnearter}
+\lfoot{Cecilie Horshauge}
+\rfoot{Side \thepage}
