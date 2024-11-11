@@ -1,10 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1731348574 "c:/Users/cecih/Desktop/VS Code/De 4 regnearter/main.tex" "main.pdf" "main" 1731348576 0
-  "Sections/addition.tex" 1731346699 1486 65df6fb282e54d413f53b31de912e5ce ""
+["pdflatex"] 1731348563 "c:/Users/cecih/Desktop/VS Code/De 4 regnearter/Sections/division.tex" "Sections/division.pdf" "division" 1731348566 0
+  "Sections/../main.tex" 1731347109 325 9f8a5fa8f88cfe77ab2d4af4fc739ed4 ""
+  "Sections/division.aux" 1731348565 460 3d0a60da90c441a0daafed6e998a1631 "pdflatex"
   "Sections/division.tex" 1731348563 1485 ecc76fad88ed7e66923adf3e1f41165d ""
-  "Sections/multiplikation.tex" 1731347497 1542 1fa1f8433875eee69e1da53a5a60f688 ""
-  "Sections/subtraktion.tex" 1731347049 1489 ca0fd0e186521ed7225ede007e12f343 ""
-  "c:/Users/cecih/Desktop/VS Code/De 4 regnearter/main.tex" 1731347109 325 9f8a5fa8f88cfe77ab2d4af4fc739ed4 ""
+  "c:/Users/cecih/Desktop/VS Code/De 4 regnearter/Sections/division.tex" 1731348563 1485 ecc76fad88ed7e66923adf3e1f41165d ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1679576667 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1679574768 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1679574768 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -28,7 +27,6 @@
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1679574768 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1679574768 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1679574768 35752 024fb6c41858982481f6968b5fc26508 ""
-  "c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1679574769 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1679578614 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1679577128 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty" 1679577128 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -123,6 +121,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty" 1679579429 989 c49c8ae06d96f8b15869da7428047b1e ""
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty" 1679579429 443 8c872229db56122037e86bcda49e14f3 ""
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1679579429 325 f9f16d12354225b7dd52a3321f085955 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/subfiles/subfiles.cls" 1679581622 1507 57de335d88fde4e5c924dfed577fdb74 ""
   "c:/texlive/2023/texmf-dist/tex/latex/subfiles/subfiles.sty" 1679581622 5262 70ab9987ec94ed2beeb5c2d951d465f6 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty" 1679581739 100426 2bce05b9314899534186dd5b9964ae73 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty" 1679582143 3468 46ba9177f0f0a79fe79845d3eebff113 ""
@@ -136,12 +135,10 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1679583036 7883456 8b500e31a490f898c32bf97277dd79be ""
   "c:/texlive/2023/texmf.cnf" 1679582833 713 e69b156964470283e0530f5060668171 ""
   "macro.sty" 1730889759 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.aux" 1731348576 1754 ba826293d693d4e2a1a0a1c254470a7b "pdflatex"
-  "main.tex" 1731347109 325 9f8a5fa8f88cfe77ab2d4af4fc739ed4 ""
   "preamble.tex" 1730890247 881 bdf03aba102d09b68c4899e5aa0d9041 ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.pdf"
-  "main.thm"
+  "Sections/division.aux"
+  "Sections/division.log"
+  "Sections/division.pdf"
+  "Sections/division.thm"
   (rewritten before read)
